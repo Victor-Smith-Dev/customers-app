@@ -1,0 +1,36 @@
+{
+  "customers" : [
+    {
+        "dni": "123",
+        "name" : "Victor Smith",
+        "age" : 37
+    },
+    {
+        "dni": "456",
+        "name": "José Smith",
+        "age": 35
+    },
+    {
+        "dni": "789",
+        "name": "Jhon Smith",
+        "age": 32     
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
