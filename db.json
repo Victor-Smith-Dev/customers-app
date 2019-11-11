@@ -1,19 +1,22 @@
 {
-  "customers" : [
+  "customers": [
     {
-        "dni": "123",
-        "name" : "Victor Smith",
-        "age" : 37
+      "id": 37,
+      "dni": "268568182",
+      "name": "Victor Smith",
+      "age": "29"
     },
     {
-        "dni": "456",
-        "name": "José Smith",
-        "age": 35
+      "id": 35,
+      "dni": "456",
+      "name": "José Smith",
+      "age": 35
     },
     {
-        "dni": "789",
-        "name": "Jhon Smith",
-        "age": 32     
+      "id": 32,
+      "dni": "789",
+      "name": "Jhon Smith",
+      "age": 32
     }
   ],
   "posts": [
